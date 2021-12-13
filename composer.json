@@ -1,0 +1,12 @@
+{
+  "name": "febalist/laravel-query",
+  "type": "library",
+  "require": {
+    "spatie/url": "^2.0"
+  },
+  "autoload": {
+    "files": [
+      "helpers.php"
+    ]
+  }
+}
